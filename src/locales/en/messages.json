@@ -376,6 +376,10 @@
   "wordSeparator": {
     "message": "Word Separator"
   },
+  "emptySeparator": {
+    "message": "Empty",
+    "description": "When a passphrase normally seperated-by-dashes has no SeperationBetweenWords"
+  },
   "capitalize": {
     "message": "Capitalize",
     "description": "Make the first letter of a work uppercase."
